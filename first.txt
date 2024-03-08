@@ -1,2 +1,5 @@
 Gitの練習用
 aaaa
+
+・git add
+・git commit
